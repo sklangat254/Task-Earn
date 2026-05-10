@@ -24,5 +24,6 @@
   "badgelimitamount" : "60",
   "showbadgeornot" : "True",
   "till" : ".",
-  "payhero" : "https://payhero-api.onrender.com"
+  "payhero" : "https://payhero-api.onrender.com",
+  "payamount4" : "150"
 }
